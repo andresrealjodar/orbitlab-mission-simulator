@@ -48,9 +48,9 @@ From the latest documented phase-7 run:
   - Reaction wheel saturation events: `0.000 %` (baseline case)
 
 ## Visual Evidence
-![Orbit comparison](outputs/orbit_3d_j2_drag_vs_phase4.png)
-![Pointing error comparison](outputs/attitude_pointing_error_comparison.png)
-![Model vs SGP4](outputs/tle_position_velocity_error.png)
+![Orbit comparison](docs/assets/orbit_3d_j2_drag_vs_phase4.png)
+![Pointing error comparison](docs/assets/attitude_pointing_error_comparison.png)
+![Model vs SGP4](docs/assets/tle_position_velocity_error.png)
 
 ## Repository Structure
 ```text
@@ -145,3 +145,4 @@ The run generates figures in `outputs/`, including:
 - Full technical memory: `docs/MEMORIA_PROYECTO.md`
 - Chronological logbook: `docs/BITACORA_PROYECTO.md`
 - New-phase template: `docs/PLANTILLA_REGISTRO_FASE.md`
+
